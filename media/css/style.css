@@ -1,0 +1,25 @@
+body {
+    background-color: #F0F0F0;
+}
+
+
+#upload-file-selector {
+    display:none;   
+}
+.margin-correction {
+    margin-right: 10px;   
+}
+
+.image-cropper {
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.profie-pic {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+}
+
